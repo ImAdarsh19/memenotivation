@@ -1,0 +1,18 @@
+body{
+    background-color: black;}
+h1 {
+    text-align: center;
+    color: aqua;
+}
+.yes{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    color:aqua;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+}
+.no{
+    width: 60%;
+    border: 05px solid ;
+}
